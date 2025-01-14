@@ -83,6 +83,11 @@ header a:hover{color: #a2bdc2;}
     padding: 5px 12px;
 }
 
+#intro a{color: #3e3d3d;
+}
+
+#intro a:hover{color: #b7828d;}
+
 .languages h3{
     font-family: 'Poppins', serif;
     margin-bottom: 0;
